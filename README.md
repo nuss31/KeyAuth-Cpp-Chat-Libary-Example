@@ -10,4 +10,6 @@ The bug simply was the cin function cause when a user had a Space in his Name or
 cause the cin function only takes characters till the Space and i fixed it with this:
 std::getline(std::cin, string);
 
+![image](https://cdn.discordapp.com/attachments/731858355802341397/979393293601366106/InkedKeyauthgithub_LI.jpg)
+
 Credits to [KeyAuth](https://github.com/KeyAuth)
