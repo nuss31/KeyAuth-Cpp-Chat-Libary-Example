@@ -12,4 +12,7 @@ std::getline(std::cin, string);
 
 ![image](https://cdn.discordapp.com/attachments/731858355802341397/979393293601366106/InkedKeyauthgithub_LI.jpg)
 
+For help add me on Discord:
+Nuss31#1102
+
 Credits to [KeyAuth](https://github.com/KeyAuth)
